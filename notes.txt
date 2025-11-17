@@ -1,0 +1,10 @@
+conda create -n agentx python=3.11 -y
+
+conda activate agentx
+
+
+pip install openai
+pip install fpdf
+
+
+Top 10 Data Analytics Tools in 2025
